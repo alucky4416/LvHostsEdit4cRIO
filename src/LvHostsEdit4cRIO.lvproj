@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SubVI" Type="Folder">
 			<Item Name="LvHostsEdit4cRIO_Rsc_HostInfo_Typedef.ctl" Type="VI" URL="../subvi/LvHostsEdit4cRIO_Rsc_HostInfo_Typedef.ctl"/>
+			<Item Name="LvHostsEdit4cRIO_SUB_HostEdit_Dialog.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_HostEdit_Dialog.vi"/>
 			<Item Name="LvHostsEdit4cRIO_SUB_HostInfo_FromString.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_HostInfo_FromString.vi"/>
 			<Item Name="LvHostsEdit4cRIO_SUB_HostInfo_Global.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_HostInfo_Global.vi"/>
 			<Item Name="LvHostsEdit4cRIO_SUB_Login_Dialog.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_Login_Dialog.vi"/>
