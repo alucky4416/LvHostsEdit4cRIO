@@ -16,6 +16,7 @@
 			<Item Name="LvHostsEdit4cRIO_SUB_HostInfo_FromString.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_HostInfo_FromString.vi"/>
 			<Item Name="LvHostsEdit4cRIO_SUB_HostInfo_Global.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_HostInfo_Global.vi"/>
 			<Item Name="LvHostsEdit4cRIO_SUB_Login_Dialog.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_Login_Dialog.vi"/>
+			<Item Name="LvHostsEdit4cRIO_SUB_LoginInfo_Global.vi" Type="VI" URL="../subvi/LvHostsEdit4cRIO_SUB_LoginInfo_Global.vi"/>
 		</Item>
 		<Item Name="LvHostsEdit4cRIO_Main.vi" Type="VI" URL="../LvHostsEdit4cRIO_Main.vi"/>
 		<Item Name="依存項目" Type="Dependencies">
