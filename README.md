@@ -11,7 +11,7 @@ LabVIEW 2014 or later.
 
 ## Usage
 
-You need to change permissions on the /etc/hosts file. 
+You must be change permissions on the cRIO's /etc/hosts file. 
 Network Connection between PC and cRIO. and then SSH login to cRIO.
 
     # su admin
