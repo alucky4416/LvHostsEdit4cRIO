@@ -20,3 +20,6 @@ Network Connection between PC and cRIO. and then SSH login to cRIO.
 Edit /etc/hosts file using LvHostsEdit4cRIO.
 
 Restore /etc/hosts file permissions.
+
+## Restriction
+Not supported normal linux /etc/hosts file format.
