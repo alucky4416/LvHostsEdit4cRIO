@@ -23,3 +23,9 @@ Restore /etc/hosts file permissions.
 
 ## Restriction
 Not supported normal linux /etc/hosts file format.
+because NI Linux RealtimeOS's /etc/hosts file format is very simple.
+
+Example
+
+    127.0.0.0<tab>localhost<tab>localhost.localdomain<tab>comment
+  
